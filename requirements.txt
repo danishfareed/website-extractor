@@ -1,6 +1,4 @@
-httpx
 beautifulsoup4
 rich
-tqdm
-asyncio
 html2text
+curl_cffi
